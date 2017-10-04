@@ -37,7 +37,6 @@
                                         pattern='^[0-9]{10}$'
                                         name="phone"/>
                                 </div>
-                                
                             </li>
                         </ul>
                     </fieldset>
@@ -56,42 +55,6 @@
                                     :chosen="chosen"
                                     :name="'signals'"
                                     />
-                            </li>
-                            <li class="flex-wrapper full zero-m">
-                                <div class="flex-cell">
-                                   
-                                </div>
-                            </li>
-                            <li class="flex-wrapper full zero-m">
-                                <div class="flex-cell">
-                                    
-                                </div>
-                            </li>
-                            <li class="flex-wrapper full zero-m">
-                                <div class="flex-cell">
-                                    
-                                </div>
-                            </li>
-                            <li class="flex-wrapper full zero-m">
-                                <div class="flex-cell">
-                                    
-                                </div>
-                            </li>
-                            <li class="flex-wrapper full zero-m m-t-s">
-                                
-                            </li>
-                            <li class="flex-wrapper full zero-m">
-                                
-                            </li>
-                            <li class="flex-wrapper full term-usage">
-                                
-                            </li>
-                        </ul>
-                    </fieldset>
-                    <fieldset>
-                        <ul>
-                            <li class="flex-wrapper submit">
-                                
                             </li>
                         </ul>
                     </fieldset>
